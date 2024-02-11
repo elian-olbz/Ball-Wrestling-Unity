@@ -16,7 +16,7 @@ LEVEL 1                    | LEVEL 2                   | LEVEL 3                
 
 ## Game states
 
-**                         | LEVEL COMPLETE            | GAME OVER                  
-:-------------------------:|:-------------------------:|:-------------------------:
-![hp](https://github.com/elian-olbz/Ball-Wrestling-Unity/assets/88755620/9d0f8404-6036-4b6c-b107-98ac86b91e64) | ![level_comp](https://github.com/elian-olbz/Ball-Wrestling-Unity/assets/88755620/4cb1496e-7542-409c-b9b5-e3815fcd6559) | ![game_over](https://github.com/elian-olbz/Ball-Wrestling-Unity/assets/88755620/edc1312f-42a8-4c91-bb22-b5de62e19043)
-
+|   |   |   |
+| ------------- | ------------- | ------------- |
+|![hp](https://github.com/elian-olbz/Ball-Wrestling-Unity/assets/88755620/9d0f8404-6036-4b6c-b107-98ac86b91e64) | ![level_comp](https://github.com/elian-olbz/Ball-Wrestling-Unity/assets/88755620/4cb1496e-7542-409c-b9b5-e3815fcd6559) | ![game_over](https://github.com/elian-olbz/Ball-Wrestling-Unity/assets/88755620/edc1312f-42a8-4c91-bb22-b5de62e19043) |
+|   |   |   |
